@@ -19,5 +19,5 @@ Para o desenvolvimento deste será usadas as seguintes tecnologias:
 - HTML;
 - JavaScript;
 - CSS;
-- Boxicon.
+- Boxicons.
 
