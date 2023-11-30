@@ -1,4 +1,4 @@
-Site pessoal para contrução do portfólio
+Site pessoal para construção do portfólio
 
 ## 📚 Seções
 
